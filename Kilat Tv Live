@@ -1,0 +1,62 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: Sky Sports Arena
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_ARENA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: SKY SPORTS MAIN EVENT
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MAIN_EVENT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: SKY SPORTS MIX
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_MIX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: SKY SPORTS TENNIS
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_TENNIS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: SKY SPORTS PREMIER LEAGUE
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: RACING SPORT
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_RACING_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK ITV 1
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK ITV 2
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",ITV 4
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",ITV 3
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: TNT SPORTS 1
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: TNT SPORTS 4
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: TNT SPORTS 2
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",BEIN SPORTS USA
+https://livetvkilatlive.applecdnstore.com/livetv/2024/US_BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",DE: SKY SPORTS TOP EVENT
+https://livetvkilatlive.applecdnstore.com/livetv/2024/DE_SKY_SPORTS_TOP_EVENT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",US: FOX SPORTS 2
+https://livetvkilatlive.applecdnstore.com/livetv/2024/USA_FOX_SPORTS_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",USA: ESPN
+https://livetvkilatlive.applecdnstore.com/livetv/2024/USA_ESPN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: SKY SPORTS FOOTBALL
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_SKY_SPORTS_FOOTBALL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: TNT SPORTS 3
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kilatlive.co/public/logo.png" group-title="Live TV",UK: BBC 1
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_BBC_1/index.m3u8
+
